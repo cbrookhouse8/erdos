@@ -9,3 +9,8 @@ been inspired by projects like [Project Euler](https://projecteuler.net/)
 for math and programming, [ROSALIND](http://rosalind.info/about/) for
 bioninformatics, and [the cryptopals challenges](https://cryptopals.com/)
 for cryptography.
+
+### Branch content
+
+This is the development branch of Erdos. For the up to date production
+branch, checkout master.
